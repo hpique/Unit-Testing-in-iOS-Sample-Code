@@ -1,4 +1,4 @@
-Sample code for my talk about Unit Testing in iOS.
+Sample code for my talk about [Unit Testing in iOS](http://www.slideshare.net/robotmedia/unit-testing-in-i-os-15491405).
 
 ColorTouch is a sample app to demonstrate how to integrate OCUnit, [GHUnit](http://github.com/gabriel/gh-unit) and [OCMock](http://github.com/erikdoe/ocmock).
 
